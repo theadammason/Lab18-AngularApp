@@ -8,3 +8,7 @@
   margin: 5px;
   padding: 5px;
 }
+.ng-hide {
+  height: 0;
+  width: 0;
+}
